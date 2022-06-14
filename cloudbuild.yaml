@@ -1,5 +1,3 @@
 steps:
   - name: bash
-    args: ["chmod", "+x"]
-  - name: bash
     args: ["./mantap.bash"]
